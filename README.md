@@ -1,4 +1,4 @@
-# C06A
+# C06A - Projeto 1
 Nome: Júlia Gonçalves Rocha Garcia.
 
 Curso: GES
